@@ -50,6 +50,10 @@ const messages = defineMessages({
     id: 'Groups',
     defaultMessage: 'Groups',
   },
+  relations: {
+    id: 'Relations',
+    defaultMessage: 'Relations',
+  },
 });
 
 /**
@@ -134,6 +138,11 @@ class Controlpanels extends Component {
           '@id': '/database',
           group: 'General',
           title: 'Database',
+        },
+        {
+          '@id': '/relations',
+          group: 'Content',
+          title: this.props.intl.formatMessage(messages.relations),
         },
         {
           '@id': '/moderate-comments',

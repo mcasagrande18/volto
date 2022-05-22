@@ -24,6 +24,7 @@ import messages from '@plone/volto/reducers/messages/messages';
 import navigation from '@plone/volto/reducers/navigation/navigation';
 import querystring from '@plone/volto/reducers/querystring/querystring';
 import querystringsearch from '@plone/volto/reducers/querystringsearch/querystringsearch';
+import relations from '@plone/volto/reducers/relations/relations';
 import roles from '@plone/volto/reducers/roles/roles';
 import schema from '@plone/volto/reducers/schema/schema';
 import search from '@plone/volto/reducers/search/search';
@@ -71,6 +72,7 @@ const reducers = {
   navigation,
   querystring,
   querystringsearch,
+  relations,
   roles,
   schema,
   search,

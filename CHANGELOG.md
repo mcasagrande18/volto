@@ -6,6 +6,8 @@
 
 ### Feature
 
+- Add control panel for relations. @ksuess
+
 ### Bugfix
 
 ### Internal

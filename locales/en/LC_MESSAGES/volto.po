@@ -541,6 +541,11 @@ msgstr ""
 msgid "Copyright statement or other rights information on this item."
 msgstr ""
 
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Create relations to target
+msgid "Create relations to target"
+msgstr ""
+
 #: components/manage/Toolbar/More
 # defaultMessage: Create working copy
 msgid "Create working copy"
@@ -1029,6 +1034,21 @@ msgstr ""
 #: components/manage/Contents/ContentsUploadModal
 # defaultMessage: Filename
 msgid "Filename"
+msgstr ""
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Filter relations by search in source
+msgid "Filter relations by search in source"
+msgstr ""
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Filter relations by target
+msgid "Filter relations by target"
+msgstr ""
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Filter targets by search
+msgid "Filter targets by search"
 msgstr ""
 
 #: components/manage/Contents/Contents
@@ -1680,6 +1700,11 @@ msgstr ""
 msgid "No options"
 msgstr ""
 
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: No relation found
+msgid "No relation found"
+msgstr ""
+
 #: components/theme/Search/Search
 # defaultMessage: No results found
 msgid "No results found"
@@ -1998,6 +2023,12 @@ msgstr ""
 msgid "Registration form"
 msgstr ""
 
+#: components/manage/Controlpanels/Controlpanels
+#: components/manage/Controlpanels/Relations/Relations
+# defaultMessage: Relations
+msgid "Relations"
+msgstr ""
+
 #: components/theme/Search/Search
 # defaultMessage: Relevance
 msgid "Relevance"
@@ -2261,6 +2292,11 @@ msgstr ""
 #: components/manage/Contents/Contents
 # defaultMessage: Select columns to show
 msgid "Select columns to show"
+msgstr ""
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Select relation
+msgid "Select relation"
 msgstr ""
 
 #: components/manage/Contents/ContentsWorkflowModal

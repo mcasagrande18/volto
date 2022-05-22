@@ -26,6 +26,7 @@ import {
   ModerateComments,
   NotFound,
   PasswordReset,
+  Relations,
   Register,
   RequestPasswordReset,
   Search,
@@ -148,6 +149,10 @@ export const defaultRoutes = [
   {
     path: '/controlpanel/groups',
     component: GroupsControlpanel,
+  },
+  {
+    path: '/controlpanel/relations',
+    component: Relations,
   },
   {
     path: '/controlpanel/:id',

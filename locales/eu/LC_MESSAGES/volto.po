@@ -548,6 +548,11 @@ msgstr "Copyright"
 msgid "Copyright statement or other rights information on this item."
 msgstr "Elementu honen Copyright adierazpena"
 
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Create relations to target
+msgid "Create relations to target"
+msgstr ""
+
 #: components/manage/Toolbar/More
 # defaultMessage: Create working copy
 msgid "Create working copy"
@@ -1037,6 +1042,21 @@ msgstr "Fitxategiaren tamaina"
 # defaultMessage: Filename
 msgid "Filename"
 msgstr "Fitxategi izena"
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Filter relations by search in source
+msgid "Filter relations by search in source"
+msgstr ""
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Filter relations by target
+msgid "Filter relations by target"
+msgstr ""
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Filter targets by search
+msgid "Filter targets by search"
+msgstr ""
 
 #: components/manage/Contents/Contents
 # defaultMessage: Filter…
@@ -1687,6 +1707,11 @@ msgstr "Ez da agerpenik ezarri"
 msgid "No options"
 msgstr "Ez du aukerarik"
 
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: No relation found
+msgid "No relation found"
+msgstr ""
+
 #: components/theme/Search/Search
 # defaultMessage: No results found
 msgid "No results found"
@@ -2005,6 +2030,12 @@ msgstr "Izena eman"
 msgid "Registration form"
 msgstr "Erregistro formularioa"
 
+#: components/manage/Controlpanels/Controlpanels
+#: components/manage/Controlpanels/Relations/Relations
+# defaultMessage: Relations
+msgid "Relations"
+msgstr ""
+
 #: components/theme/Search/Search
 # defaultMessage: Relevance
 msgid "Relevance"
@@ -2269,6 +2300,11 @@ msgstr "Aukeratu data eta gehitu errepikapenera"
 # defaultMessage: Select columns to show
 msgid "Select columns to show"
 msgstr "Aukeratu erakutsiko diren zutabeak"
+
+#: helpers/MessageLabels/MessageLabels
+# defaultMessage: Select relation
+msgid "Select relation"
+msgstr ""
 
 #: components/manage/Contents/ContentsWorkflowModal
 # defaultMessage: Select the transition to be used for modifying the items state.
